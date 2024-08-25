@@ -1,37 +1,32 @@
 # 毕业设计源码
 
 #### 介绍
-基于机器学习的招聘信息分析系统/基于协同过滤的小说推荐系统/基于机器学习的房屋预测系统/基于深度学习的音乐推荐系统、数据分析、毕业设计系统等等许多作品
-
-#### 软件架构
-软件架构说明
+基于机器学习的招聘信息分析系统/基于协同过滤的小说推荐系统/基于机器学习的房屋预测系统/基于深度学习的音乐推荐系统、粮食产量数据分析与预测、图书数据分析可视化……数据分析、毕业设计系统等等许多作品
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![输入图片说明](%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%A4%A7%E5%B1%8F.png)
 
 
-#### 特技
+![输入图片说明](%E8%BF%90%E5%8A%A8%E5%91%98.png)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![输入图片说明](%E8%BF%90%E5%8A%A8%E5%91%981.png)
+
+![输入图片说明](%E8%BF%90%E5%8A%A8%E5%91%982.png)
+
+![输入图片说明](%E6%88%BF%E5%B1%8B%E4%BA%A4%E6%98%93%E6%95%B0%E6%8D%AE.png)
+
+![输入图片说明](%E6%88%90%E5%93%81.png)
+
+![输入图片说明](%E6%88%BF%E5%B1%8B%E4%BA%A4%E6%98%93%E6%95%B0%E6%8D%AE.png)
+
+![输入图片说明](%E7%B2%AE%E9%A3%9F%E4%BA%A7%E9%87%8F%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.png)
+
+![输入图片说明](%E5%9B%BE%E4%B9%A6%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.jpg)
+
+☎️方式
+![输入图片说明](Qq.png)
+
+
+
