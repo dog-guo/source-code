@@ -6,8 +6,13 @@
 
 
 #### 使用说明
-![输入图片说明](%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%A4%A7%E5%B1%8F.png)
+![基于机器学习的招聘信息分析系统](%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%A4%A7%E5%B1%8F.png)
 
+![基于java加vue3的协同过滤小说推荐系统1](https://github.com/user-attachments/assets/639c6f62-371a-4871-8c52-13674b078ea1)
+
+![基于java加vue3的协同过滤小说推荐系统2](https://github.com/user-attachments/assets/35f93ecb-c283-491b-bf7f-58fba0fc6044)
+
+![基于java加vue3的协同过滤小说推荐系统3](https://github.com/user-attachments/assets/c93bd8f7-73c4-4566-be75-d05a77c4c2d3)
 
 ![输入图片说明](%E8%BF%90%E5%8A%A8%E5%91%98.png)
 
